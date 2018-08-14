@@ -15,7 +15,8 @@
 
   <!-- Define the main entry-point to the application -->
   <content src="index.html" />
-
+ <plugin name="cordova-plugin-whitelist" spec="1.2.2" />
+  
 
   <!-- Define app icon and splashscreen for each platform. -->
   <platform name="android">
